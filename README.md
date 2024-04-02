@@ -1,8 +1,7 @@
-- 👋 Hi, I’m PumkinPlay.
-- 👀 I’m interested in Minecraft.
-- 🌱 I’m currently learning How to code.
-- 💞️ I’m looking to collaborate on a prollect of recreating Minecraft.
-- I'm a pumkin 🎃 🌱 :)
+- 👋 Hola, yo soy PumkinPlay.
+- 👀 Estoy interesado en Minecraft.
+- 🌱 Estoy aprendiendo como hacer videojuegos (aunque no se me da muy bien...).
+- Soy una calabaza 🎃 🌱 =]
 
 <!---
 PumkinPlay/PumkinPlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
